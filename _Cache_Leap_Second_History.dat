@@ -1,7 +1,7 @@
 #  Value of TAI-UTC in second valid beetween the initial value until
 #  the epoch given on the next line. The last line reads that NO
 #  leap second was introduced since the corresponding date 
-#  Updated through IERS Bulletin C49 issued in January 2015
+#  Updated through IERS Bulletin C63 issued in January 2022
 #  
 #
 #  File expires on 28 December 2015
@@ -38,5 +38,5 @@
     54832.0    1  1 2009       34
     56109.0    1  7 2012       35
     57204.0    1  7 2015       36
-    99999.0    1  7 2016       36
-    99999.0    1  1 2017       37
+    57754.0    1  1 2017       37
+    59761.0    1  7 2022       37

@@ -3,6 +3,6 @@ scheme.
 
 You can read more here:
 
-	http://phk.freebsd.dk/time/20151122.html
+	https://phk.freebsd.dk/time/20151122/
 
 Poul-Henning
